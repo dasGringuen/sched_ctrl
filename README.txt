@@ -3,7 +3,7 @@ Implementation of an idea of Daniel Gutson
 Install:
 ==========
 
-tested on Debian 8. Should work on Ubuntu
+Tested on Debian 8. Should work on Ubuntu
 
 sudo apt-get install linux-headers-$(uname -r)
 sudo ln -s /usr/src/linux-headers-$(uname -r) /usr/src/linux 
@@ -11,6 +11,7 @@ sudo ln -s /usr/src/linux-headers-$(uname -r) /usr/src/linux
 
 Module:
 =======
+
 cd module
 make
 ./run
