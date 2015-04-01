@@ -1,3 +1,5 @@
+Implementation of an idea of Daniel Gutson
+
 Install:
 ==========
 
