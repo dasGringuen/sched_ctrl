@@ -25,7 +25,7 @@ Test with 3 threads:
 ====================
 should get something like:
 
-adrian@debian:~/Dropbox/2-programas/kernel/scheduller/src/driver_test$ ./driver_test 
+adrian@debian: ~sched_ctrl/driver_test$ ./driver_test 
 Starting test... 
 Father:6671
 t1: pid 6672
