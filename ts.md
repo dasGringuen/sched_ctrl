@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 
 1. [List]({{ "/components/" | prepend: site.baseurl }})
