@@ -1,0 +1,9 @@
+# Site settings
+title: Scheduler
+description: Prototype
+baseurl: /sched_ctrl
+url: http://dasgringuen.github.io
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
